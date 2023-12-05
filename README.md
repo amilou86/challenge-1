@@ -1,4 +1,12 @@
 # challenge-1
+
+## Description
+I have been tasked by marketing company Horiseon to refactor a page from their website to improve accessability and optimise for search engines.
+
+To achieve this I have made necessary changes to meet the below User Story and Accepted Criteria.
+
+Comments have been added to the respective HTML and CSS files, indicating what changes have been made and why.
+
 ### User Story
 ```
 AS A marketing agency
